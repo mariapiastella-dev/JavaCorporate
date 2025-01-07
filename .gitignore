@@ -1,0 +1,27 @@
+# Eclipse specifico
+/.settings/
+/.classpath
+/.project
+/bin/
+
+# IntelliJ IDEA specifico
+.idea/
+
+# NetBeans specifico
+.nb-gradle/
+
+# File di log
+*.log
+
+# File temporanei di sistema (Windows e macOS)
+Thumbs.db
+.DS_Store
+
+# File di backup ed editor temporanei
+*~ 
+*.bak
+*.swp
+
+
+
+
